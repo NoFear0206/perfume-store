@@ -1,0 +1,21 @@
+# system files
+Thumbs.db
+.DS_Store
+
+# editor / IDE
+.vscode/
+.idea/
+
+# temporary file
+*.log
+*.tmp
+
+# locate
+database.php
+
+# content when running
+uploads/
+cache/
+
+# server
+.htaccess
